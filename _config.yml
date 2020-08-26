@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Dominic Glover - Engineer in Training
+author: domglov
+email: dominic.c.glover@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  I've always been fascinated by engineering. I read an iPhone apps for dummies book in high school that scared me off, and I didn't want to compute with the 
+  geniuses at Harvard that I went to college with. So now I'm righting those wrongs and figuring out how this all works!
+  
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: DominicGlover10 # DO NOT include the @ character, or else the build will fail!
+github_username:  domglov # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
